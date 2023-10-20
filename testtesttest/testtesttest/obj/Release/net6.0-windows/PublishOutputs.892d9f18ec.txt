@@ -1,0 +1,6 @@
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\testtesttest.exe
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\testtesttest.dll
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\testtesttest.deps.json
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\testtesttest.runtimeconfig.json
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\testtesttest.pdb
+C:\Users\MIS01\source\repos\testtesttest\testtesttest\bin\Release\net6.0-windows\publish\FluentFTP.dll
